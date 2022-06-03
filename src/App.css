@@ -1,0 +1,7 @@
+body {
+  background-image: url("../src/components/images/path.png"),
+    url("../src/components/images/dwira.png");
+  background-repeat: no-repeat, no-repeat;
+  background-size: 1300px 350px, 1000px 800px;
+  background-position: left 0px top 290px, left 600px top -290px;
+}
